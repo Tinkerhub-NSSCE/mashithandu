@@ -76,7 +76,7 @@ Go to settings and set push to the main branch only after review
 >**⚠️ Make sure all changes made by your members are contained within your
 >  campus folder. Any changes outside it may disqualify the entire
 >   college.**
-
+WEr
 
 ### Review the PRs
 
