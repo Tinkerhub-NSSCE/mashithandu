@@ -32,7 +32,7 @@ Create a fork of this repo to your account.
 ``` 
 💡 search StackOverflow on how to Fork a repo in GitHub
 ```
-
+parvathy
 ### Contribute
 Add your contribution to the repo by editing the contents of the folder with your campus name.
 
